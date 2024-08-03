@@ -9,3 +9,4 @@ script = ExtResource("1_cvaap")
 offset_right = 1.0
 offset_bottom = 1.0
 scale = Vector2(320, 320)
+color = Color(0.917647, 0.886275, 0.717647, 1)

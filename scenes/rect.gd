@@ -4,5 +4,5 @@ func create(x_size, y_size, color):
 	$"ColorRect".scale.x = x_size
 	$"ColorRect".scale.y = y_size
 	$"ColorRect".color = color
-	print(x_size, y_size)
-	print(color)
+
+
