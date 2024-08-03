@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b85i1ouuvlbqj"]
+
+[ext_resource type="Script" path="res://scenes/zoom.gd" id="1_g0tn8"]
+
+[node name="Zoom" type="Node2D"]
+script = ExtResource("1_g0tn8")
